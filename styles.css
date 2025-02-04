@@ -79,7 +79,7 @@ body {
 }
 
 .card-header {
-  margin-bottom: 1rem;
+  margin-bottom: 1.3rem;
 }
 
 .card-header > .title {
@@ -89,7 +89,7 @@ body {
 
 .card-header > .description {
   color: var(--gray-300);
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .card-footer {
